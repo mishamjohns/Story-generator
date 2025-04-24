@@ -1,0 +1,5 @@
+Flask
+transformers
+torch
+
+# pip install -r requirements.txt
